@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BuenJugador
 - 👀 I’m interested in Unity and game development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C#
 - 📫 How to reach me: gmail: turbofireesh@gmail.com
